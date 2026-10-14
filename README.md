@@ -10,3 +10,9 @@ All personal info, projects and skills live in the `DATA` and `USE` objects near
 
 ## Deploy
 Import this repository at vercel.com/new. No build step is needed.
+
+## Résumé
+The "Download résumé" buttons link to `Deepak_R_Resume.pdf`, which must stay in the same folder as `index.html`. To update your résumé, replace that file.
+
+## Link preview
+`og.png` is the image shown when the link is shared on WhatsApp or LinkedIn. It is referenced with the address https://professional-portfolio-dead-code1.vercel.app/ — if your final address is different, update the three `og:` / `twitter:` URLs in `index.html`.
